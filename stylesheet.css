@@ -1,0 +1,50 @@
+.jumbotron{
+  background-image:url(http://images2.alphacoders.com/688/68870.jpg);
+  background-size:cover;
+}
+
+.jumbotron h1{
+	padding-left: 20px;
+}
+
+.jumbotron h2{
+	padding-left: 40px;
+}
+
+.jumbotron img{
+	float: right;
+	height: 275px;
+	width: 215px;
+	border: 5px solid gray;
+	margin-bottom: 20px;
+	margin-right: 20px;
+}
+
+#selfSum h3{
+	padding-left: 10px;
+}
+
+#selfSum p{
+	padding-left: 20px;
+}
+
+#selfSum{
+	border: 5px solid black;
+}
+
+.jobDesc h3{
+	border-bottom: 3px dotted black;
+	padding-left: 10px;
+}
+
+.jobDesc h4{
+	padding-left: 20px;
+}
+
+.jobDesc h5{
+	padding-left: 25px;
+}
+
+.jobSum{
+	padding-left: 10px;
+}
